@@ -10,9 +10,6 @@ The most important aspect of the design is ease of use.
 
 - A single issue centric design eliminates UI noise and distractions not relavent to what this is for.
 - Matte black, red and white color scheme is consistent with elevate's aesthetic.
-
-Key features:
-- Automatically generates checkout dates to keep checking out equipment as quick and easy as possible.
-
+- Timestamps each checkout automatically to make the process quicker than previous platforms we have used.
 
 
